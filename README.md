@@ -1,7 +1,7 @@
 # **Python Asynchronous**
 
 <div align="center">
-<img src="https://marcas-logos.net/wp-content/uploads/2020/11/Python-logo.png" width="500" height="150">
+<img src="https://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG.png">
 </div></br>
 
 ### This repository contains some code written in python that addresses the topic of concurrent and asynchronous programming.
