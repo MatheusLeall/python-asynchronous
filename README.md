@@ -1,7 +1,7 @@
 # **Python Asynchronous**
 
 <div align="center">
-<img src="https://w7.pngwing.com/pngs/319/643/png-transparent-programming-in-python-3-a-complete-introduction-to-the-python-language-python-machine-learning-programming-language-logo-framework-text-logo-computer-programming-thumbnail.png" >
+<img src="https://marcas-logos.net/wp-content/uploads/2020/11/Python-logo.png" width="500" >
 </div></br>
 
 ### This repository contains some code written in python that addresses the topic of concurrent and asynchronous programming.
